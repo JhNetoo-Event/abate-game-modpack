@@ -1,0 +1,181 @@
+{
+  "packId": "abate",
+  "packName": "AbateGame",
+  "packVersion": "1.0.0",
+  "minecraftVersion": "1.20.1",
+  "loader": "forge",
+  "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar",
+  "loaderVersion": "47.4.10",
+  "baseUrl": "https://raw.githubusercontent.com/JhNetoo-Event/abate-game-modpack/main/files/",
+  "server": {
+    "name": "Abate Game",
+    "address": "mc.jhnetoo.com.br"
+  },
+  "files": [
+    {
+      "path": "config/appleskin-client.toml",
+      "sha256": "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200",
+      "size": 1337
+    },
+    {
+      "path": "config/biomesoplenty/biome_toggles.json",
+      "sha256": "6184168c00c4f45e874e0043304992c67beb5d5306e6150dec4f79dd4dd24b71",
+      "size": 1999
+    },
+    {
+      "path": "config/biomesoplenty/generation.toml",
+      "sha256": "9627663fe77026284e2299b999b78e31583bf31d143cd1b8ae5f0d4433be3768",
+      "size": 600
+    },
+    {
+      "path": "config/craftedcore/cache/patreons.txt",
+      "sha256": "a6fa08d0aef00ab9c895b995b1e915a7d0d7719138cb46fc24326f75a5e2628e",
+      "size": 148
+    },
+    {
+      "path": "config/craftedcore.json5",
+      "sha256": "3de7009394b78b379615a7c750ff342fa45254adb6be9d567882973206f25ea1",
+      "size": 185
+    },
+    {
+      "path": "config/embeddium-fingerprint.json",
+      "sha256": "5d11c5c38da49433c4d5e254a9a8d255f0091fa36bac3f89204d92b2fd00a62d",
+      "size": 427
+    },
+    {
+      "path": "config/embeddium-mixins.properties",
+      "sha256": "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619",
+      "size": 269
+    },
+    {
+      "path": "config/embeddium-options.json",
+      "sha256": "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d",
+      "size": 852
+    },
+    {
+      "path": "config/fml.toml",
+      "sha256": "2a2501a2bf09c87a0e707cfde999f67016228edf35c4ac2b90a2a3b6f4e7aae6",
+      "size": 1119
+    },
+    {
+      "path": "config/forge-client.toml",
+      "sha256": "a8448518860cd8b542dadf75521bfab981451775212ee1b51ddc646d998f9311",
+      "size": 1602
+    },
+    {
+      "path": "config/jujutsucraft.toml",
+      "sha256": "50e7109ec9767337a34d39a9ee3f8b8f0aafa98cb2f0905ad26b524fbe08b84a",
+      "size": 96
+    },
+    {
+      "path": "config/notenoughanimations.json",
+      "sha256": "a2d22cc7d19765757c890486eda58fcd7bbfa1501cda91a94297ec40c61db9bc",
+      "size": 3303
+    },
+    {
+      "path": "config/oculus.properties",
+      "sha256": "ec4202f57bf6117b4192e42ad5bc840713196f4ced9b4d287095870ca806f8cd",
+      "size": 277
+    },
+    {
+      "path": "config/pehkui-client.toml",
+      "sha256": "b99f791974a57bce18a9c3bde4b416de180f24df878e985336814e6be4615e0d",
+      "size": 132
+    },
+    {
+      "path": "config/pehkui-common.toml",
+      "sha256": "e9a129d0a2dbf13d36d4f3e47ae3b2b01d32a9e872a771633bf356d9cdebc895",
+      "size": 389
+    },
+    {
+      "path": "config/remorphed.json5",
+      "sha256": "2f1504a3fb8e38858244542fd1bf68a9b036a8ed23e6c376601ff39cfb25c83c",
+      "size": 367
+    },
+    {
+      "path": "config/skinlayers.json",
+      "sha256": "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166",
+      "size": 497
+    },
+    {
+      "path": "config/terrablender.toml",
+      "sha256": "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480",
+      "size": 534
+    },
+    {
+      "path": "config/transition.json",
+      "sha256": "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+      "size": 62
+    },
+    {
+      "path": "config/trender.json",
+      "sha256": "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+      "size": 44
+    },
+    {
+      "path": "config/walkers.json5",
+      "sha256": "f25e26078736c3e62da59a6842e462c9e1d0148467085ba6bb5b77736bbe1f5f",
+      "size": 6403
+    },
+    {
+      "path": "config/zergatul.freecam.json",
+      "sha256": "ad0609a13906d7cbdb86e63ccb67254496d4e038d5cbdd30d1b8387501f99750",
+      "size": 114
+    },
+    {
+      "path": "mods/JujutsuCraft-ver49.1-forge-1.20.1.jar",
+      "sha256": "ee48b4e81a9d1b909c1a02dbed3deeecd84f32138adc393c904ab3aeea0b2c73",
+      "size": 16540283
+    },
+    {
+      "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
+      "sha256": "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc",
+      "size": 671605
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "size": 1320675
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "sha256": "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250",
+      "size": 1039046
+    },
+    {
+      "path": "mods/notenoughanimations-forge-1.12.0-mc1.20.1.jar",
+      "sha256": "d76046b3ced7f8d18c3b021747f8beb03904f5984a9da7c66f9464084e209d1b",
+      "size": 1937062
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "size": 2851119
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "size": 181437
+    },
+    {
+      "path": "servers.dat",
+      "sha256": "af303e5ebf65b66402dfaec413501272bc7559028c8e1e0a6f84103a53149936",
+      "size": 73
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+      "sha256": "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0",
+      "size": 522970
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt",
+      "sha256": "8f2dcaac2a8f65ef85dfbf2c829f321cee591a1d939e1993c97227190ba9bf3b",
+      "size": 135
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+      "sha256": "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af",
+      "size": 522973
+    }
+  ]
+}
