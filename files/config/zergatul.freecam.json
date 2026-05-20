@@ -1,7 +1,0 @@
-{
-  "acceleration": 5.0,
-  "maxSpeed": 5.0,
-  "slowdownFactor": 1.0E-4,
-  "renderHands": false,
-  "target": true
-}
