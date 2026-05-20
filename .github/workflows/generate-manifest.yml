@@ -1,0 +1,69 @@
+name: Generate Manifest
+
+on:
+  push:
+    paths:
+      - "files/**"
+      - ".github/workflows/generate-manifest.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate manifest.json
+        run: |
+          python3 <<'PY'
+          import hashlib
+          import json
+          from pathlib import Path
+
+          repo_user = "${{ github.repository_owner }}"
+          repo_name = "${{ github.event.repository.name }}"
+
+          manifest = {
+              "packId": "abate",
+              "packName": "AbateGame",
+              "packVersion": "1.0.0",
+              "minecraftVersion": "1.20.1",
+              "loader": "forge",
+              "loaderVersion": "47.4.10",
+              "baseUrl": f"https://raw.githubusercontent.com/{repo_user}/{repo_name}/main/files/",
+              "server": {
+                  "name": "Abate Game",
+                  "address": "mc.jhnetoo.com.br"
+              },
+              "files": []
+          }
+
+          base = Path("files")
+
+          for file in sorted(base.rglob("*")):
+              if file.is_file():
+                  data = file.read_bytes()
+                  manifest["files"].append({
+                      "path": file.relative_to(base).as_posix(),
+                      "sha256": hashlib.sha256(data).hexdigest(),
+                      "size": file.stat().st_size
+                  })
+
+          Path("manifest.json").write_text(
+              json.dumps(manifest, indent=2, ensure_ascii=False) + "\n",
+              encoding="utf-8"
+          )
+
+          print(f"Manifest gerado com {len(manifest['files'])} arquivos.")
+          PY
+
+      - name: Commit manifest.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Generate manifest.json"
+          file_pattern: manifest.json
