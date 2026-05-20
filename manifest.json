@@ -1,0 +1,14 @@
+{
+  "packId": "abate",
+  "packName": "AbateGame",
+  "packVersion": "1.0.0",
+  "minecraftVersion": "1.20.1",
+  "loader": "forge",
+  "loaderVersion": "47.4.10",
+  "baseUrl": "https://raw.githubusercontent.com/JhNetoo-Event/abate-game-modpack/main/files/",
+  "server": {
+    "name": "Abate Game",
+    "address": "mc.jhnetoo.com.br"
+  },
+  "files": []
+}
