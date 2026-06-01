@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-01T14:10:00Z",
+  "items": [
+    {
+      "id": "test-v1",
+      "title": "Abate Game - teste noticias",
+      "summary": "Testando todo recuso de noticias",
+      "body": "Noticia dinamica e rapida a teste",
+      "imageUrl": "https://github.com/JhNetoo-Event/abate-game-modpack/assets/news/teste.json",
+      "videoUrl": "",
+      "date": "01/06/2026",
+      "type": "ATUALIZAÇÃO",
+      "featured": true,
+      "isMainFeatured": true,
+      "showOnHome": true,
+      "priority": 10,
+      "buttonText": "",
+      "buttonUrl": ""
+    }
+  ]
+}
