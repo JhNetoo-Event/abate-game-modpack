@@ -14,7 +14,7 @@
       "featured": true,
       "isMainFeatured": true,
       "showOnHome": true,
-      "priority": 10,
+      "priority": 100,
       "buttonText": "",
       "buttonUrl": ""
     }
