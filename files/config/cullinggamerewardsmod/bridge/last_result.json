@@ -1,0 +1,14 @@
+{
+  "fightActive": false,
+  "bossEntityId": "jujutsucraft:stevenson_screen",
+  "bossDisplayName": "Stevenson Screen",
+  "endedAt": 1777123241407,
+  "players": [
+    {
+      "rank": 1,
+      "uuid": "e79f1a54-dc07-4c8f-bb52-257eb69b0a24",
+      "name": "Chumer_",
+      "damage": 61.0
+    }
+  ]
+}

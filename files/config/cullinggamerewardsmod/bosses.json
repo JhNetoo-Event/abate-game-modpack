@@ -1,0 +1,66 @@
+[
+  {
+    "entityId": "jujutsucraft:gojo_satoru",
+    "displayName": "Satoru Gojo",
+    "iconItemId": "minecraft:nether_star",
+    "enabled": true,
+    "bossBarColor": "blue",
+    "rewardTiers": []
+  },
+  {
+    "entityId": "jujutsucraft:sukuna",
+    "displayName": "Ryomen Sukuna",
+    "iconItemId": "minecraft:netherite_sword",
+    "enabled": true,
+    "bossBarColor": "red",
+    "rewardTiers": []
+  },
+  {
+    "entityId": "jujutsucraft:mahito",
+    "displayName": "Mahito",
+    "iconItemId": "minecraft:soul_lantern",
+    "enabled": true,
+    "bossBarColor": "purple",
+    "rewardTiers": []
+  },
+  {
+    "entityId": "jujutsucraft:cursed_spirit_grade_06",
+    "displayName": "cursed_spirit_grade_06",
+    "iconItemId": "minecraft:writable_book",
+    "enabled": true,
+    "bossBarColor": "red",
+    "rewardTiers": []
+  },
+  {
+    "entityId": "jujutsucraft:awasaka_jiro",
+    "displayName": "Awasaka Jiro",
+    "iconItemId": "minecraft:nether_star",
+    "enabled": true,
+    "bossBarColor": "red",
+    "rewardTiers": []
+  },
+  {
+    "entityId": "jujutsucraft:cursed_spirit_grade_05",
+    "displayName": "Cursed Spirit Grade 05",
+    "iconItemId": "minecraft:nether_star",
+    "enabled": true,
+    "bossBarColor": "red",
+    "rewardTiers": []
+  },
+  {
+    "entityId": "jujutsucraft:gojo_satoru_school_days",
+    "displayName": "Gojo Satoru School Days",
+    "iconItemId": "minecraft:nether_star",
+    "enabled": true,
+    "bossBarColor": "red",
+    "rewardTiers": []
+  },
+  {
+    "entityId": "jujutsucraft:stevenson_screen",
+    "displayName": "Stevenson Screen",
+    "iconItemId": "minecraft:nether_star",
+    "enabled": true,
+    "bossBarColor": "red",
+    "rewardTiers": []
+  }
+]
