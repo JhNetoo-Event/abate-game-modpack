@@ -34,7 +34,7 @@ gamma:0.5
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:0
+guiScale:2
 particles:0
 maxFps:120
 graphicsMode:1
@@ -45,7 +45,7 @@ renderClouds:"true"
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
-lang:en_us
+lang:pt_br
 soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
@@ -72,7 +72,7 @@ tutorialStep:movement
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:false
@@ -118,6 +118,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.entityculling.toggle:key.keyboard.unknown
 key_key.jujutsucraft.key_change_technique:key.keyboard.r
 key_key.jujutsucraft.key_start_technique:key.keyboard.z
 key_key.jujutsucraft.key_simple_domain:key.keyboard.g
@@ -132,7 +133,7 @@ key_key.jujutsucraft.key_use_main_skill:key.keyboard.v
 key_key.jujutsucraft.key_a:key.keyboard.a
 key_key.jujutsucraft.key_d:key.keyboard.d
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.2007042253521127
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
