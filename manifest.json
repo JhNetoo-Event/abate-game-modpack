@@ -1,7 +1,7 @@
 {
   "packId": "abate",
   "packName": "AbateGame",
-  "packVersion": "1.0.2",
+  "packVersion": "1.0.3",
   "minecraftVersion": "1.20.1",
   "loader": "forge",
   "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar",
@@ -31,6 +31,31 @@
       "path": "config/cullinggamerewardsmod/schedules.json",
       "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
       "size": 2
+    },
+    {
+      "path": "config/embeddium-fingerprint.json",
+      "sha256": "a46d6115d0640c829d47b4d9141b5c70d9617e328f50eb7b86a18ee959558fa7",
+      "size": 427
+    },
+    {
+      "path": "config/embeddium-mixins.properties",
+      "sha256": "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619",
+      "size": 269
+    },
+    {
+      "path": "config/embeddium-options.json",
+      "sha256": "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d",
+      "size": 852
+    },
+    {
+      "path": "config/entityculling.json",
+      "sha256": "b03bb7b9c6103d1324f93e0382bddf258616e9b88e3b880e9e1011f88e499c65",
+      "size": 2003
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "sha256": "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287",
+      "size": 1493
     },
     {
       "path": "config/fml.toml",
@@ -63,6 +88,16 @@
       "size": 389
     },
     {
+      "path": "config/transition.json",
+      "sha256": "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c",
+      "size": 97
+    },
+    {
+      "path": "config/trender.json",
+      "sha256": "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+      "size": 44
+    },
+    {
       "path": "kubejs/README.txt",
       "sha256": "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af",
       "size": 1203
@@ -93,14 +128,24 @@
       "size": 329
     },
     {
+      "path": "kubejs/server_scripts/example.js",
+      "sha256": "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2",
+      "size": 126
+    },
+    {
       "path": "kubejs/startup_scripts/example.js",
       "sha256": "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f",
       "size": 127
     },
     {
       "path": "minecraftinstance.json",
-      "sha256": "235dd8f6ce4e01554991362c33fdb812faa476023e6663ddf8b167755b607fd0",
-      "size": 771811
+      "sha256": "0b3a2445ad9c4dc20367cb0308f5e441348dce793071ac0ef29c0fd4c0b5d58a",
+      "size": 794196
+    },
+    {
+      "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha256": "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a",
+      "size": 20299
     },
     {
       "path": "mods/JujutsuCraft-ver50.1-forge-1.20.1.jar",
@@ -111,6 +156,21 @@
       "path": "mods/architectury-9.2.14-forge.jar",
       "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
       "size": 580602
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "size": 1320675
+    },
+    {
+      "path": "mods/entityculling-forge-1.10.3-mc1.20.1.jar",
+      "sha256": "9a1d3c5d1706ab61c6d7e8862d1343e934d2e4adbe78c6d4e1ae7d01ceb863d5",
+      "size": 1589279
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "size": 123034
     },
     {
       "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
@@ -139,18 +199,13 @@
     },
     {
       "path": "options.txt",
-      "sha256": "5448da52cb179f3a36c41aa20c678efca2bccabb4b632ca7db4bfddf650ceaab",
-      "size": 4021
-    },
-    {
-      "path": "rhino.local.properties",
-      "sha256": "b87da6b3270f95106ab3f07453e1c4b5638f90c677009667d1a5be5d4ab22725",
-      "size": 139
+      "sha256": "eb32ba94b4965a94afcdc6b707ffe8366756ba41bc0cdfbe65d0dd5bbef6a927",
+      "size": 4085
     },
     {
       "path": "servers.dat",
-      "sha256": "af303e5ebf65b66402dfaec413501272bc7559028c8e1e0a6f84103a53149936",
-      "size": 73
+      "sha256": "e1c3fa088caaa386a30ccb9604932f1a9ae17f2b2c92c88bd2ac089facb14041",
+      "size": 77
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
