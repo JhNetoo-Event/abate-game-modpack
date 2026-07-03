@@ -31,10 +31,10 @@ jobs:
           manifest = {
               "packId": "abate",
               "packName": "AbateGame",
-              "packVersion": "1.0.3",
+              "packVersion": "1.0.4",
               "minecraftVersion": "1.20.1",
               "loader": "forge",
-              "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar",
+              "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
               "loaderVersion": "47.4.10",
               "baseUrl": f"https://raw.githubusercontent.com/{repo_user}/{repo_name}/main/files/",
               "server": {
