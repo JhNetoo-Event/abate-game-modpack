@@ -1,7 +1,7 @@
 {
   "packId": "abate",
   "packName": "AbateGame",
-  "packVersion": "1.0.4",
+  "packVersion": "1.0.5",
   "minecraftVersion": "1.20.1",
   "loader": "forge",
   "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
@@ -98,46 +98,6 @@
       "size": 44
     },
     {
-      "path": "kubejs/README.txt",
-      "sha256": "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af",
-      "size": 1203
-    },
-    {
-      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
-      "sha256": "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc",
-      "size": 247
-    },
-    {
-      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
-      "sha256": "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b",
-      "size": 372
-    },
-    {
-      "path": "kubejs/client_scripts/example.js",
-      "sha256": "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7",
-      "size": 126
-    },
-    {
-      "path": "kubejs/config/client.properties",
-      "sha256": "1d8f675da21e98c66c3b2837a1c9030b7668c4e582fe2ffdee6c9c0a518e02c6",
-      "size": 359
-    },
-    {
-      "path": "kubejs/config/common.properties",
-      "sha256": "1c56adb43144d6855be57361db3c84a2486b8900872fef9076916affe0bb3b0c",
-      "size": 329
-    },
-    {
-      "path": "kubejs/server_scripts/example.js",
-      "sha256": "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2",
-      "size": 126
-    },
-    {
-      "path": "kubejs/startup_scripts/example.js",
-      "sha256": "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f",
-      "size": 127
-    },
-    {
       "path": "minecraftinstance.json",
       "sha256": "0b3a2445ad9c4dc20367cb0308f5e441348dce793071ac0ef29c0fd4c0b5d58a",
       "size": 794196
@@ -178,24 +138,14 @@
       "size": 1039046
     },
     {
-      "path": "mods/kubejs-forge-2001.6.5-build.26.jar",
-      "sha256": "1769312192fbf9d72f45054ba61130523bfb471b5f480a4bff8c210ec09400bb",
-      "size": 1658792
-    },
-    {
-      "path": "mods/lootjs-forge-1.20.1-2.13.1.jar",
-      "sha256": "c1672330605a691b8a91b3a4d252f2d3a280f252874f1fc5fdd7cad07d13b719",
-      "size": 242267
+      "path": "mods/jjck-1.0.7.jar",
+      "sha256": "c706ff2a7dc163dd3e4bdc767cdfa83f9579c89a1a00b611c1a27b1e04000faf",
+      "size": 836880
     },
     {
       "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
       "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
       "size": 181437
-    },
-    {
-      "path": "mods/rhino-forge-2001.2.3-build.10.jar",
-      "sha256": "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6",
-      "size": 1798244
     },
     {
       "path": "options.txt",
