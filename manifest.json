@@ -1,7 +1,7 @@
 {
   "packId": "abate",
   "packName": "AbateGame",
-  "packVersion": "1.0.7",
+  "packVersion": "1.0.8",
   "minecraftVersion": "1.20.1",
   "loader": "forge",
   "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
@@ -154,8 +154,8 @@
     },
     {
       "path": "options.txt",
-      "sha256": "eb32ba94b4965a94afcdc6b707ffe8366756ba41bc0cdfbe65d0dd5bbef6a927",
-      "size": 4085
+      "sha256": "d26773d164c6bcf7812a645853ca3d8e4c1bbb415fc94a1104b56110facd85fa",
+      "size": 4491
     },
     {
       "path": "servers.dat",
