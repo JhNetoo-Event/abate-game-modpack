@@ -3,20 +3,20 @@
   "updatedAt": "2026-06-01T14:10:00Z",
   "items": [
     {
-      "id": "test-v1",
-      "title": "Abate Game - teste noticias",
-      "summary": "Testando todo recuso de noticias",
-      "body": "Noticia dinamica e rapida a teste",
-      "imageUrl": "https://github.com/JhNetoo-Event/abate-game-modpack/blob/main/assets/news/teste.jpg?raw=true",
-      "videoUrl": "",
-      "date": "01/06/2026",
-      "type": "ATUALIZAÇÃO",
-      "featured": true,
-      "isMainFeatured": true,
-      "showOnHome": true,
-      "priority": 100,
-      "buttonText": "",
-      "buttonUrl": ""
-    }
+  "id": "seja-bem-vindo-ao-jogo-do-abate",
+  "title": "Seja bem vindo ao Jogo do Abate",
+  "summary": "Lute contra todos, Sobreviva a batalha e que Vença o MELHOR!",
+  "body": "Lançamento Muito Legal uwu!!",
+  "imageUrl": "",
+  "videoUrl": "",
+  "date": "10/07/2026",
+  "type": "ATUALIZAÇÃO",
+  "featured": true,
+  "isMainFeatured": true,
+  "showOnHome": true,
+  "priority": 0,
+  "buttonText": "",
+  "buttonUrl": ""
+}
   ]
 }
