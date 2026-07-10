@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T14:10:00Z",
+  "updatedAt": "2026-07-10T14:07:42.104Z",
   "items": [
     {
-  "id": "seja-bem-vindo-ao-jogo-do-abate",
-  "title": "Seja bem vindo ao Jogo do Abate",
-  "summary": "Lute contra todos, Sobreviva a batalha e que Vença o MELHOR!",
-  "body": "Lançamento Muito Legal uwu!!",
-  "imageUrl": "",
-  "videoUrl": "",
-  "date": "10/07/2026",
-  "type": "ATUALIZAÇÃO",
-  "featured": true,
-  "isMainFeatured": true,
-  "showOnHome": true,
-  "priority": 0,
-  "buttonText": "",
-  "buttonUrl": ""
-}
+      "id": "seja-bem-vindo-ao-jogo-do-abate",
+      "title": "Seja bem vindo ao Jogo do Abate",
+      "summary": "Lute contra todos, Sobreviva a batalha e que Vença o MELHOR!",
+      "body": "Lançamento Muito Legal uwu!!",
+      "imageUrl": "",
+      "videoUrl": "",
+      "date": "10/07/2026",
+      "type": "ATUALIZAÇÃO",
+      "featured": true,
+      "isMainFeatured": true,
+      "showOnHome": true,
+      "priority": 0,
+      "buttonText": "",
+      "buttonUrl": ""
+    }
   ]
 }
