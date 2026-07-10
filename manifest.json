@@ -1,7 +1,7 @@
 {
   "packId": "abate",
   "packName": "AbateGame",
-  "packVersion": "1.0.8",
+  "packVersion": "1.0.9",
   "minecraftVersion": "1.20.1",
   "loader": "forge",
   "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
@@ -191,11 +191,6 @@
       "path": "shaderpacks/Prismarine Shader V5.0.zip",
       "sha256": "82497108a1e7f4280dcada9e9ef9480b5e590d970ddac0f1179bd05ba4ff8ff9",
       "size": 1107448
-    },
-    {
-      "path": "shaderpacks/UShader_v2.2 (1).zip",
-      "sha256": "89afb9c0a7ad56810b01c4113a24443f312fd614647031c5ab01c6e6dc975419",
-      "size": 1160247
     },
     {
       "path": "shaderpacks/UShader_v2.2.zip",
