@@ -1,7 +1,7 @@
 {
   "packId": "abate",
   "packName": "AbateGame",
-  "packVersion": "1.0.5",
+  "packVersion": "1.0.6",
   "minecraftVersion": "1.20.1",
   "loader": "forge",
   "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
@@ -108,9 +108,9 @@
       "size": 20299
     },
     {
-      "path": "mods/JujutsuCraft-ver50.1-forge-1.20.1.jar",
-      "sha256": "094247a33bf9c4a741a17fee9ecd1eb5879c97f107ae784af81cfc0f1eee26c9",
-      "size": 16398540
+      "path": "mods/JujutsuCraft-v50.1.jar",
+      "sha256": "6f26ab174da00fdc34fb5d6f678d953ac580e3238e4066ac3b03bb9fa83b8baf",
+      "size": 16455743
     },
     {
       "path": "mods/architectury-9.2.14-forge.jar",
@@ -143,6 +143,11 @@
       "size": 836880
     },
     {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "size": 2851119
+    },
+    {
       "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
       "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
       "size": 181437
@@ -158,19 +163,59 @@
       "size": 77
     },
     {
-      "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
-      "sha256": "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0",
-      "size": 522970
-    },
-    {
-      "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt",
-      "sha256": "8f2dcaac2a8f65ef85dfbf2c829f321cee591a1d939e1993c97227190ba9bf3b",
-      "size": 135
+      "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+      "sha256": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15",
+      "size": 546925
     },
     {
       "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip",
       "sha256": "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af",
       "size": 522973
+    },
+    {
+      "path": "shaderpacks/Kappa_v5.3.zip",
+      "sha256": "7748c7884d593fcebc23863bd4bad1fbae9fadb9cebc73165290d4705b89fe9d",
+      "size": 3872527
+    },
+    {
+      "path": "shaderpacks/Mellow Shader v3.2.zip",
+      "sha256": "aa8bf0ba4d6f6540a9e185caf29051b17a40d1aa965f6d046fa66d4b40408d51",
+      "size": 629784
+    },
+    {
+      "path": "shaderpacks/PotatoShaders_v1.0d.zip",
+      "sha256": "55aa21562dbc2860fd466719908437a8bc22ad358a673fb3c119e4bcdf1616af",
+      "size": 393109
+    },
+    {
+      "path": "shaderpacks/Prismarine Shader V5.0.zip",
+      "sha256": "82497108a1e7f4280dcada9e9ef9480b5e590d970ddac0f1179bd05ba4ff8ff9",
+      "size": 1107448
+    },
+    {
+      "path": "shaderpacks/UShader_v2.2 (1).zip",
+      "sha256": "89afb9c0a7ad56810b01c4113a24443f312fd614647031c5ab01c6e6dc975419",
+      "size": 1160247
+    },
+    {
+      "path": "shaderpacks/UShader_v2.2.zip",
+      "sha256": "89afb9c0a7ad56810b01c4113a24443f312fd614647031c5ab01c6e6dc975419",
+      "size": 1160247
+    },
+    {
+      "path": "shaderpacks/Verlixia.zip",
+      "sha256": "d3294efe321b3f95a42050b13547de1ffc00a50cd8f26807510bc8ae858f4895",
+      "size": 2223625
+    },
+    {
+      "path": "shaderpacks/photon_v1.3b.zip",
+      "sha256": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead",
+      "size": 3800987
+    },
+    {
+      "path": "shaderpacks/§lE-LITE shaders 5.1.1.zip",
+      "sha256": "d9904d435be1e5a2246213a82c6bd4b730dcd3d36141e6e09161f892b1050093",
+      "size": 537839
     }
   ]
 }
