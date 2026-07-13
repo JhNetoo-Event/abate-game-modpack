@@ -1,7 +1,7 @@
 {
   "packId": "abate",
   "packName": "AbateGame",
-  "packVersion": "1.0.10",
+  "packVersion": "1.0.11",
   "minecraftVersion": "1.20.1",
   "loader": "forge",
   "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
@@ -160,7 +160,8 @@
     {
       "path": "servers.dat",
       "sha256": "b81bdd3a6d0798d4dc474dc6205234684622f30020e75bbe44c35524665d7255",
-      "size": 76
+      "size": 76,
+      "forceUpdate": true
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
