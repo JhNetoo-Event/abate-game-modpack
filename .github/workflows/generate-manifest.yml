@@ -31,7 +31,7 @@ jobs:
           manifest = {
               "packId": "abate",
               "packName": "AbateGame",
-              "packVersion": "1.0.10",
+              "packVersion": "1.0.11",
               "minecraftVersion": "1.20.1",
               "loader": "forge",
               "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
@@ -49,11 +49,15 @@ jobs:
           for file in sorted(base.rglob("*")):
               if file.is_file():
                   data = file.read_bytes()
-                  manifest["files"].append({
-                      "path": file.relative_to(base).as_posix(),
+                  path_str = file.relative_to(base).as_posix()
+                  file_entry = {
+                      "path": path_str,
                       "sha256": hashlib.sha256(data).hexdigest(),
                       "size": file.stat().st_size
-                  })
+                  }
+                  if path_str == "servers.dat":
+                      file_entry["forceUpdate"] = True
+                  manifest["files"].append(file_entry)
 
           Path("manifest.json").write_text(
               json.dumps(manifest, indent=2, ensure_ascii=False) + "\n",
