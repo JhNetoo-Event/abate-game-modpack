@@ -1,7 +1,7 @@
 {
   "packId": "abate",
   "packName": "AbateGame",
-  "packVersion": "1.0.12",
+  "packVersion": "1.0.13",
   "minecraftVersion": "1.20.1",
   "loader": "forge",
   "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
@@ -113,9 +113,9 @@
       "size": 16455743
     },
     {
-      "path": "mods/abate-cosmetics-1.0.0.jar",
-      "sha256": "d67704b305e74cc3801bbcc6b4c77e6f6b731c0fcef87c722b15584b161439ff",
-      "size": 9119
+      "path": "mods/abate-cosmetics-1.0.1.jar",
+      "sha256": "2e4c7aa7398f150f677051705b412b234a1d8929f40abd55e7d2de65412da6d8",
+      "size": 9625
     },
     {
       "path": "mods/architectury-9.2.14-forge.jar",
