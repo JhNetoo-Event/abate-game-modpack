@@ -1,7 +1,7 @@
 {
   "packId": "abate",
   "packName": "AbateGame",
-  "packVersion": "1.0.13",
+  "packVersion": "1.0.14",
   "minecraftVersion": "1.20.1",
   "loader": "forge",
   "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
@@ -106,6 +106,11 @@
       "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
       "sha256": "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a",
       "size": 20299
+    },
+    {
+      "path": "mods/JogoDoAbate-1.5.jar",
+      "sha256": "33dd70b34c27529073509889480590bc03236370a3cc8a39c296cfd9704fe4fb",
+      "size": 60708
     },
     {
       "path": "mods/JujutsuCraft-v50.1.jar",
