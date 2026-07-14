@@ -1,7 +1,7 @@
 {
   "packId": "abate",
   "packName": "AbateGame",
-  "packVersion": "1.0.11",
+  "packVersion": "1.0.12",
   "minecraftVersion": "1.20.1",
   "loader": "forge",
   "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
@@ -111,6 +111,11 @@
       "path": "mods/JujutsuCraft-v50.1.jar",
       "sha256": "6f26ab174da00fdc34fb5d6f678d953ac580e3238e4066ac3b03bb9fa83b8baf",
       "size": 16455743
+    },
+    {
+      "path": "mods/abate-cosmetics-1.0.0.jar",
+      "sha256": "d67704b305e74cc3801bbcc6b4c77e6f6b731c0fcef87c722b15584b161439ff",
+      "size": 9119
     },
     {
       "path": "mods/architectury-9.2.14-forge.jar",
